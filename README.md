@@ -14,3 +14,14 @@ Ever had to create simple yaml config based off default parameters and variables
 - [ ] Variable support
 - [ ] Defaulting variable support
 - [ ] Multile variable support
+
+## Installation
+### Pre-install
+- Python 3.8 or later
+- Pip
+
+
+## Test environment
+- Zsh
+- FreeBSD 13.1-RELEASE
+- Root commands accessible via sudo
