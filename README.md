@@ -25,6 +25,10 @@ Ever had to create simple yaml config based off default parameters and variables
 pip3 install smartyaml
 ```
 
+## Implementation
+### Special keys
+- __parent: loads parent file and overrides duplicate keys
+
 ## Test environment
 - Zsh
 - FreeBSD 13.1-RELEASE
