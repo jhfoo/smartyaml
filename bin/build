@@ -1,3 +1,4 @@
+venv/bin/python src/vercrement.py setup.py patch
+rm -rf dist
 venv/bin/python setup.py sdist bdist_wheel
-venv/bin/pip3 install dist/smartyaml-0.1.0-py3-none-any.whl
 venv/bin/twine check dist/*

@@ -1,2 +1,2 @@
-venv/bin/pip install smartyaml
+venv/bin/pip install --upgrade smartyaml
 venv/bin/python src/index.py
