@@ -1,0 +1,3 @@
+__parent: tests/config/parent2.yaml
+jail:
+  mount.devfs:

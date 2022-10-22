@@ -7,7 +7,7 @@ Ever had to create simple yaml config based off default parameters and variables
 ## Use cases
 ### Config
 - [ ] Multifile support
-- [ ] Defaulting support (child files override parents)
+- [x] Defaulting support (child files override parents)
 - [ ] Export final config to file
 
 ### Variables

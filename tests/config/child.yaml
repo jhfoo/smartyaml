@@ -1,0 +1,4 @@
+__parent: tests/config/parent.yaml
+jail:
+  allow.raw_sockets: 1
+  securelevel: 3

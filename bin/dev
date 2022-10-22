@@ -1,0 +1,2 @@
+venv/bin/pip uninstall -y smartyaml
+venv/bin/python src/index.py

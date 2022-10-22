@@ -5,3 +5,4 @@ pytest
 pytest-runner
 keyring
 keyrings.alt
+pyyaml
