@@ -27,7 +27,7 @@ pip3 install smartyaml
 
 ## Implementation
 ### Special keys
-- __parent: loads parent file and overrides duplicate keys
+- ```__parent```: loads parent file and overrides duplicate keys
 
 ## Test environment
 - Zsh
