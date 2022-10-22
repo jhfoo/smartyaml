@@ -20,6 +20,10 @@ Ever had to create simple yaml config based off default parameters and variables
 - Python 3.8 or later
 - Pip
 
+### Install
+```
+pip3 install smartyaml
+```
 
 ## Test environment
 - Zsh
